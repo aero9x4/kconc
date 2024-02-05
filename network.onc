@@ -1,0 +1,1 @@
+{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"Secure WIFI 4-Wifi","Metered":true,"Name":"KCSSecureWIFI4","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"KCSSecureWIFI4","Security":"None"},"NameServersConfigType":"Static","StaticIPConfig":{"NameServers":["8.8.8.8","8.8.8.8","8.8.4.4","8.8.4.4"]},"ProxySettings":{"Type":"Direct"}}]}
